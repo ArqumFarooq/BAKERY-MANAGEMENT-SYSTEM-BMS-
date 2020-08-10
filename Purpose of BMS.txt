@@ -1,0 +1,18 @@
+Introduction:-
+The project is titled “Online Bakery Management System”.
+The main objective of  bakery management system is to make the workflow flexible and to improve the services provided to the customers. Our bakery management system will have 2 portals The admin can view ,insert, modify and delete any product. The admin will have all controls of the system.
+The customer will also be shown a screen from where the following operations can be selected.
+The customer can view all the items.
+The customer can add items to the cart.
+The customer can place order.
+The customer can view different deals available
+The customer can talk to the customer representative
+The customer can view its order.
+
+Extra features
+1)On a max amount of items the customers can get a discount.
+
+2)If the customer buys less products then the minimum no of order products then his order will be rejected.
+
+3)The customer can order only in working hours of bakery that is 10 am to 10 pm.
+4)The system will keep track of the items in stock and whenever a customer buys an item it will be subtracted from the quantity of that particular item
