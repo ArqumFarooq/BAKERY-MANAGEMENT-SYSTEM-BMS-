@@ -6,8 +6,3 @@ Data we will use linked list for the implementation of our bakery management sys
 For storing the data I used file handling. Basic purpose of suing file handling is to store product in system paramently.
 
 
-
-
-
-
-
