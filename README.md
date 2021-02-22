@@ -7,23 +7,3 @@ For storing the data I used file handling. The basic purpose of suing file handl
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
