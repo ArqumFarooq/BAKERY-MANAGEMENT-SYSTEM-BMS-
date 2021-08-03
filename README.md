@@ -5,5 +5,3 @@ Visual Studio in C++ language
 Data we will use a linked list for the implementation of our bakery management system
 For storing the data I used file handling. The basic purpose of suing file handling is to store the product in the system permanently.
 
-
-
